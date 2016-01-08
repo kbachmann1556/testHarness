@@ -1,0 +1,16 @@
+{
+  "name": "testHarness",
+  "version": "1.0.0",
+  "description": "Test Harness",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --timeout 10000 test"
+  },
+  "author": "Kai Bachmann",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mocha": "^2.3.4",
+    "phantomjs": "^1.9.19",
+    "selenium-webdriver": "^2.48.2"
+  }
+}
