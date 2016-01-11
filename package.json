@@ -10,6 +10,7 @@
   "dependencies": {
     "chromedriver": "^2.20.0",
     "express": "^4.13.3",
+    "gapi": "0.0.3",
     "mocha": "^2.3.4",
     "phantomjs": "^1.9.19",
     "selenium-webdriver": "^2.48.2"
